@@ -62,20 +62,7 @@ function App() {
   )
 }
 
-// function ShowFinal({hdlclick}){
-//     const hdlclick = (e) => {
-//       e.preventDefault()
-//       // console.log("hi")
-     
-//       return (
-        
-//           <div>
-//             {toppingOut.map(el= <h1>{el}</h1>)}
-//           </div>
-        
-//       )
-//     }
-// }
+
 
 
 export default App
